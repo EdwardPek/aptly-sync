@@ -1,0 +1,33 @@
+# Runs every 30 minutes between 8:00 AM and 8:00 PM Eastern (Palm Coast time).
+name: Rentvine to Aptly sync
+on:
+  schedule:
+    - cron: "*/30 0-1,12-23 * * *"
+  workflow_dispatch:
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Business-hours check (America/New_York)
+        id: hours
+        run: |
+          H=$(TZ=America/New_York date +%-H)
+          M=$(TZ=America/New_York date +%-M)
+          if { [ "$H" -ge 8 ] && [ "$H" -lt 20 ]; } || { [ "$H" -eq 20 ] && [ "$M" -lt 15 ]; } \
+             || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=no" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/setup-python@v5
+        if: steps.hours.outputs.run == 'yes'
+        with:
+          python-version: "3.12"
+      - name: Run sync
+        if: steps.hours.outputs.run == 'yes'
+        env:
+          RENTVINE_KEY: ${{ secrets.RENTVINE_KEY }}
+          RENTVINE_SECRET: ${{ secrets.RENTVINE_SECRET }}
+          APTLY_TOKEN: ${{ secrets.APTLY_TOKEN }}
+        run: python rentvine_aptly_sync.py
