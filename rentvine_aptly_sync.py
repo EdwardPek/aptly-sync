@@ -190,14 +190,17 @@ def main():
                 if DRY:
                     print(f"[dry] CREATE {base['name']} <{email}> | {main_unit}")
                 else:
-                    r = ap_post({**base, "stage": "Nurturing"})
+                    r = ap_post({**base, "stage": "New Lead Received"})
+                    new_id = r["data"]["_id"]
                     try:
                         cid = ap_upsert_contact(base["name"], email, base["trackingPhone"])
                         duo = "".join(w[0] for w in base["name"].split()[:2]).upper() or "??"
-                        if cid: ap_post({"_id": r["data"]["_id"], "contact": {"_id": cid, "name": base["name"], "duogram": duo}})
+                        if cid: ap_post({"_id": new_id, "contact": {"_id": cid, "name": base["name"], "duogram": duo}})
                     except Exception as ex:
                         print(f"contact link failed for {email}: {ex}")
-                    card_by_email[email] = {"_id": r["data"]["_id"], "createdAt": "now", "description": desc, "name": base["name"]}
+                    # Card is left in "New Lead Received"; Aptly automations move it to
+                    # Nurturing, send the confirmation email, and create follow-up tasks.
+                    card_by_email[email] = {"_id": new_id, "createdAt": "now", "description": desc, "name": base["name"], "stage": "New Lead Received"}
                 created += 1
             time.sleep(0.15)
         except Exception as ex:
