@@ -1,0 +1,2094 @@
+{
+"byUnit": {
+"1156": {
+"aptlyId": "MGwprSzq5AHbqiKtC",
+"name": "1 Farraday Ln Ste 1B",
+"street": "1 Farraday Ln",
+"desig": "Ste 1B"
+},
+"1155": {
+"aptlyId": "F8w7mE7tErH77fDpY",
+"name": "1 Farraday Ln Ste 2A",
+"street": "1 Farraday Ln",
+"desig": "Ste 2A"
+},
+"1154": {
+"aptlyId": "bJtFqqareeYMw2beg",
+"name": "1 Farraday Ln Ste 2B",
+"street": "1 Farraday Ln",
+"desig": "Ste 2B"
+},
+"1150": {
+"aptlyId": "4boTkg47vqYC93n8Y",
+"name": "1 Farraday Ln Ste 2C",
+"street": "1 Farraday Ln",
+"desig": "Ste 2C"
+},
+"1151": {
+"aptlyId": "bK79pZarCayPN4Y4q",
+"name": "1 Farraday Ln Ste 2D",
+"street": "1 Farraday Ln",
+"desig": "Ste 2D"
+},
+"1152": {
+"aptlyId": "6QdBdzCJEEo2EZbfJ",
+"name": "1 Farraday Ln Ste 2E",
+"street": "1 Farraday Ln",
+"desig": "Ste 2E"
+},
+"1153": {
+"aptlyId": "tswwK7bTvx8nhmWvd",
+"name": "1 Farraday Ln Ste 2F",
+"street": "1 Farraday Ln",
+"desig": "Ste 2F"
+},
+"1174": {
+"aptlyId": "Fig3B2pkiKLrCeyBA",
+"name": "1 Pontiac Ln Unit A",
+"street": "1 Pontiac Ln",
+"desig": "Unit A"
+},
+"1062": {
+"aptlyId": "tL5EdnmBfbM9CuxQL",
+"name": "10 Union Mill Place Unit A",
+"street": "10 Union Mill Place",
+"desig": "Unit A"
+},
+"1026": {
+"aptlyId": "kjPTwTEDW3oCCLWxY",
+"name": "101 Palm Harbor Parkway 202B",
+"street": "101 Palm Harbor Parkway",
+"desig": "202B"
+},
+"1226": {
+"aptlyId": "ezTaYair8msGthgfk",
+"name": "101 Palm Harbor Parkway 230B",
+"street": "101 Palm Harbor Parkway",
+"desig": "230B"
+},
+"1025": {
+"aptlyId": "dghD3c5pqFzEkwecg",
+"name": "101 Palm Harbor Pkwy Ste 202A",
+"street": "101 Palm Harbor Pkwy",
+"desig": "Ste 202A"
+},
+"1225": {
+"aptlyId": "5sdw3TY5earrFexrC",
+"name": "101 Palm Harbor Pkwy Ste 230A",
+"street": "101 Palm Harbor Pkwy",
+"desig": "Ste 230A"
+},
+"1092": {
+"aptlyId": "6yF24jTg58QCWckmP",
+"name": "104 Surfview Dr Apt 1608",
+"street": "104 Surfview Dr",
+"desig": "Apt 1608"
+},
+"773": {
+"aptlyId": "AXzoB9N9uw9zLevRj",
+"name": "107 Brunswick Ln Unit A",
+"street": "107 Brunswick Ln",
+"desig": "Unit A"
+},
+"774": {
+"aptlyId": "MXf5tRbtNwqewD9cY",
+"name": "107 Brunswick Ln Unit B",
+"street": "107 Brunswick Ln",
+"desig": "Unit B"
+},
+"1660": {
+"aptlyId": "m6sfQyqT82qymhHv8",
+"name": "11 Buttonwood Lane Unit A",
+"street": "11 Buttonwood Lane",
+"desig": "Unit A"
+},
+"907": {
+"aptlyId": "5CZLkMNiospTRuscj",
+"name": "11 Crabtree Court Unit B",
+"street": "11 Crabtree Court",
+"desig": "Unit B"
+},
+"906": {
+"aptlyId": "BfkyKowaHj2QW6cSu",
+"name": "11 Crabtree Ct Unit A",
+"street": "11 Crabtree Ct",
+"desig": "Unit A"
+},
+"1642": {
+"aptlyId": "988RzuFgywSPdrfmc",
+"name": "1100 S Ponce De Leon Blvd Unit 2",
+"street": "1100 S Ponce De Leon Blvd",
+"desig": "Unit 2"
+},
+"1603": {
+"aptlyId": "9SemasRqyciXo53Zf",
+"name": "119 Wellwood Lane Unit A",
+"street": "119 Wellwood Lane",
+"desig": "Unit A"
+},
+"1604": {
+"aptlyId": "kCbvWz9fsFwb3xZSf",
+"name": "119 Wellwood Lane Unit B",
+"street": "119 Wellwood Lane",
+"desig": "Unit B"
+},
+"1472": {
+"aptlyId": "kFQqkLtXXaEpnTJBo",
+"name": "12 Bannbury Lane Unit 1",
+"street": "12 Bannbury Lane",
+"desig": "Unit 1"
+},
+"812": {
+"aptlyId": "tDL5zFasRzDYuLF25",
+"name": "12 Lloshire Path Unit A",
+"street": "12 Lloshire Path",
+"desig": "Unit A"
+},
+"813": {
+"aptlyId": "j9278FFaxeifAhBBK",
+"name": "12 Lloshire Path Unit B",
+"street": "12 Lloshire Path",
+"desig": "Unit B"
+},
+"1263": {
+"aptlyId": "kEjFFibvTDxMaCtnM",
+"name": "121 Ullian Trail Unit A",
+"street": "121 Ullian Trail",
+"desig": "Unit A"
+},
+"1264": {
+"aptlyId": "NgsZtGwZ4rh55FFNs",
+"name": "121 Ullian Trail Unit B",
+"street": "121 Ullian Trail",
+"desig": "Unit B"
+},
+"1402": {
+"aptlyId": "amQx9NB9eKrZsiZJ7",
+"name": "13 Universe Court Unit A",
+"street": "13 Universe Court",
+"desig": "Unit A"
+},
+"1401": {
+"aptlyId": "QxHL62dzLp6zE4vTf",
+"name": "13 Universe Court Unit B",
+"street": "13 Universe Court",
+"desig": "Unit B"
+},
+"1680": {
+"aptlyId": "848zuBLZ5K9Rwmw7x",
+"name": "133 Brunswick Ln Unit A",
+"street": "133 Brunswick Ln",
+"desig": "Unit A"
+},
+"1681": {
+"aptlyId": "P6GyRAGH5J6ScP8cF",
+"name": "133 Brunswick Ln Unit B",
+"street": "133 Brunswick Ln",
+"desig": "Unit B"
+},
+"704": {
+"aptlyId": "6uHfTEk8fj4Pqku7Q",
+"name": "14 Rosepetal Ln Unit A",
+"street": "14 Rosepetal Ln",
+"desig": "Unit A"
+},
+"705": {
+"aptlyId": "PPM788eMu9EScHLiX",
+"name": "14 Rosepetal Ln Unit B",
+"street": "14 Rosepetal Ln",
+"desig": "Unit B"
+},
+"802": {
+"aptlyId": "wt5FiTamKyTNu3fZd",
+"name": "14 Unimay Ct Unit A",
+"street": "14 Unimay Ct",
+"desig": "Unit A"
+},
+"803": {
+"aptlyId": "kHhp6g5SjZugja9mg",
+"name": "14 Unimay Ct Unit B",
+"street": "14 Unimay Ct",
+"desig": "Unit B"
+},
+"1646": {
+"aptlyId": "tDZn56jh9zHNjwC39",
+"name": "146 Palm Coast Resort Blvd Unit 404",
+"street": "146 Palm Coast Resort Blvd",
+"desig": "Unit 404"
+},
+"811": {
+"aptlyId": "oQ69KQuyJ9BqBNPr2",
+"name": "148 Secretary Trail Unit B",
+"street": "148 Secretary Trail",
+"desig": "Unit B"
+},
+"810": {
+"aptlyId": "iNz96S45S9dTGaE4J",
+"name": "148 Secretary Trl Unit A",
+"street": "148 Secretary Trl",
+"desig": "Unit A"
+},
+"1461": {
+"aptlyId": "EmwakSYwgk5YWYD4j",
+"name": "15 Buttonwood Lane Unit A",
+"street": "15 Buttonwood Lane",
+"desig": "Unit A"
+},
+"693": {
+"aptlyId": "cenWvcXKiazuhS62P",
+"name": "15 Buttonwood Ln Unit B",
+"street": "15 Buttonwood Ln",
+"desig": "Unit B"
+},
+"1327": {
+"aptlyId": "AeSQLMvSwWxSDp5fW",
+"name": "15 Florida Park Drive North Unit 6",
+"street": "15 Florida Park Drive North",
+"desig": "Unit 6"
+},
+"1117": {
+"aptlyId": "iyGvPtLXJtyv39sgG",
+"name": "16 Emmons Ln Unit A",
+"street": "16 Emmons Ln",
+"desig": "Unit A"
+},
+"696": {
+"aptlyId": "xBwc2B6E4uqEm5Sii",
+"name": "16 Serbian Bellflower Trail Unit A",
+"street": "16 Serbian Bellflower Trail",
+"desig": "Unit A"
+},
+"697": {
+"aptlyId": "Z7Fn7ibaGi5Sdi3TS",
+"name": "16 Serbian Bellflower Trail Unit B",
+"street": "16 Serbian Bellflower Trail",
+"desig": "Unit B"
+},
+"749": {
+"aptlyId": "vkPYBGePb2bfqiAB5",
+"name": "16 Whetstone Ln Unit A",
+"street": "16 Whetstone Ln",
+"desig": "Unit A"
+},
+"759": {
+"aptlyId": "HfKKP3sPrWkoyDQBC",
+"name": "16 Whetstone Ln Unit B",
+"street": "16 Whetstone Ln",
+"desig": "Unit B"
+},
+"1316": {
+"aptlyId": "bgeXTmPsoPweuK3uQ",
+"name": "16 Wood Arbor Lane Unit A",
+"street": "16 Wood Arbor Lane",
+"desig": "Unit A"
+},
+"1614": {
+"aptlyId": "5yYpCaYhPntj75fvM",
+"name": "16 Wood Arbor Lane Unit B",
+"street": "16 Wood Arbor Lane",
+"desig": "Unit B"
+},
+"1176": {
+"aptlyId": "Bz7cmJhvnyQFzpJAJ",
+"name": "160 Cypress Point Parkway Ste D106",
+"street": "160 Cypress Point Parkway",
+"desig": "Ste D106"
+},
+"1177": {
+"aptlyId": "aXS9r7T9GXgLSSh9t",
+"name": "160 Cypress Point Pkwy Ste D105",
+"street": "160 Cypress Point Pkwy",
+"desig": "Ste D105"
+},
+"700": {
+"aptlyId": "Suqgke8ExMYdzuZ9y",
+"name": "17 Buttonwood Lane Unit A",
+"street": "17 Buttonwood Lane",
+"desig": "Unit A"
+},
+"701": {
+"aptlyId": "hTxqrexe4m3NzTro9",
+"name": "17 Buttonwood Lane Unit B",
+"street": "17 Buttonwood Lane",
+"desig": "Unit B"
+},
+"706": {
+"aptlyId": "biDiddpmMCx5qButC",
+"name": "17 Rainbow Ln Unit A",
+"street": "17 Rainbow Ln",
+"desig": "Unit A"
+},
+"707": {
+"aptlyId": "cgdcAazvJP4EXPwKA",
+"name": "17 Rainbow Ln Unit B",
+"street": "17 Rainbow Ln",
+"desig": "Unit B"
+},
+"1286": {
+"aptlyId": "4sm5cJ28zigbT4BXB",
+"name": "17 Zoeller Court Unit B",
+"street": "17 Zoeller Court",
+"desig": "Unit B"
+},
+"1285": {
+"aptlyId": "3eRhex8akLqwSCRTk",
+"name": "17 Zoeller Ct Unit A",
+"street": "17 Zoeller Ct",
+"desig": "Unit A"
+},
+"1413": {
+"aptlyId": "zDrxxwbTNjGuyi43e",
+"name": "18 Empire Lane unit B",
+"street": "18 Empire Lane",
+"desig": "unit B"
+},
+"1590": {
+"aptlyId": "LkzXg5dYMa4RG5v9b",
+"name": "18 Serbian Bellflower Trail Unit B",
+"street": "18 Serbian Bellflower Trail",
+"desig": "Unit B"
+},
+"1600": {
+"aptlyId": "kdu84aWamYj2txNb5",
+"name": "18 Wood Amber Lane Unit A",
+"street": "18 Wood Amber Lane",
+"desig": "Unit A"
+},
+"1599": {
+"aptlyId": "f8rrCmfsnRka8pfZo",
+"name": "18 Wood Amber Lane Unit B",
+"street": "18 Wood Amber Lane",
+"desig": "Unit B"
+},
+"688": {
+"aptlyId": "MNHivKbJpo9arEEzG",
+"name": "19 Avenue De La Mer Unit 401",
+"street": "19 Avenue De La Mer",
+"desig": "Unit 401"
+},
+"849": {
+"aptlyId": "PFKiiXo4kqdiGqZ6p",
+"name": "19 Pleasant Lane Unit B",
+"street": "19 Pleasant Lane",
+"desig": "Unit B"
+},
+"848": {
+"aptlyId": "bdLLdg2tPEvLR9WLS",
+"name": "19 Pleasant Ln Unit A",
+"street": "19 Pleasant Ln",
+"desig": "Unit A"
+},
+"807": {
+"aptlyId": "yCJuGrmtj6Jw3YshJ",
+"name": "2 Union Run Court Unit B",
+"street": "2 Union Run Court",
+"desig": "Unit B"
+},
+"806": {
+"aptlyId": "4zWJ4gJbFk9qzvBHY",
+"name": "2 Union Run CT. Unit A",
+"street": "2 Union Run CT.",
+"desig": "Unit A"
+},
+"1647": {
+"aptlyId": "p38KN748beKXJp3dC",
+"name": "200 Ocean Crest Drive Unit 1111",
+"street": "200 Ocean Crest Drive",
+"desig": "Unit 1111"
+},
+"866": {
+"aptlyId": "Zi3MFCooXJQuDumEe",
+"name": "200 Riverfront Dr Unit C203",
+"street": "200 Riverfront Dr",
+"desig": "Unit C203"
+},
+"1435": {
+"aptlyId": "EqgkRPKR56QyRNcer",
+"name": "21 Emerald Lane Unit A",
+"street": "21 Emerald Lane",
+"desig": "Unit A"
+},
+"916": {
+"aptlyId": "QK2wRDn3e29doEydL",
+"name": "21 Emerald Ln Unit B",
+"street": "21 Emerald Ln",
+"desig": "Unit B"
+},
+"1142": {
+"aptlyId": "74C2RuZKShQmmDwoZ",
+"name": "21 Pine Hurst Lane Unit B",
+"street": "21 Pine Hurst Lane",
+"desig": "Unit B"
+},
+"1141": {
+"aptlyId": "o3ApiqmphPJqRWTQK",
+"name": "21 Pine Hurst Ln Unit A",
+"street": "21 Pine Hurst Ln",
+"desig": "Unit A"
+},
+"1694": {
+"aptlyId": "AidgYzyT4pHJJrfrK",
+"name": "21 Rosepetal Lane Uni A",
+"street": "21 Rosepetal Lane",
+"desig": "Uni A"
+},
+"1695": {
+"aptlyId": "sjCCuSsXafujEWqkT",
+"name": "21 Rosepetal Lane Unit B",
+"street": "21 Rosepetal Lane",
+"desig": "Unit B"
+},
+"1403": {
+"aptlyId": "sASdWYvXtg3yH6LWM",
+"name": "21 Seward Trail East Unit A",
+"street": "21 Seward Trail East",
+"desig": "Unit A"
+},
+"1404": {
+"aptlyId": "rGEWFTqkz3XACeAWK",
+"name": "21 Seward Trail East Unit B",
+"street": "21 Seward Trail East",
+"desig": "Unit B"
+},
+"694": {
+"aptlyId": "KD9w3YiMdHzeKrjWy",
+"name": "22 Bunker Knolls Lane Unit A",
+"street": "22 Bunker Knolls Lane",
+"desig": "Unit A"
+},
+"695": {
+"aptlyId": "rkHDF9TrgLibMAfat",
+"name": "22 Bunker Knolls Ln Unit B",
+"street": "22 Bunker Knolls Ln",
+"desig": "Unit B"
+},
+"1231": {
+"aptlyId": "bPYJXuwRnRNepWbdH",
+"name": "226 Coral Reef Ct N Unit A",
+"street": "226 Coral Reef Ct N",
+"desig": "Unit A"
+},
+"1232": {
+"aptlyId": "JftSFkrSWk3dX2Giu",
+"name": "226 Coral Reef Ct N Unit B",
+"street": "226 Coral Reef Ct N",
+"desig": "Unit B"
+},
+"1212": {
+"aptlyId": "K5sNAH8L7Ff522MWa",
+"name": "24 Prosperity Lane Unit B",
+"street": "24 Prosperity Lane",
+"desig": "Unit B"
+},
+"1211": {
+"aptlyId": "WPZpAgEm8u7orPGWk",
+"name": "24 Prosperity Ln Unit A",
+"street": "24 Prosperity Ln",
+"desig": "Unit A"
+},
+"816": {
+"aptlyId": "pFkSY7ubrLS9kjoyA",
+"name": "24 Ullian Trail Unit A",
+"street": "24 Ullian Trail",
+"desig": "Unit A"
+},
+"817": {
+"aptlyId": "pKq2hiAYPoRn9MkdC",
+"name": "24 Ullian Trail Unit B",
+"street": "24 Ullian Trail",
+"desig": "Unit B"
+},
+"731": {
+"aptlyId": "bjPtNA2hEyRpvBXk8",
+"name": "25 Louvet Ln Unit A",
+"street": "25 Louvet Ln",
+"desig": "Unit A"
+},
+"732": {
+"aptlyId": "Le6kJweZMj9iZkA7M",
+"name": "25 Louvet Ln Unit B",
+"street": "25 Louvet Ln",
+"desig": "Unit B"
+},
+"1345": {
+"aptlyId": "wGo3DrMwpRMLntsRr",
+"name": "25 Rosepetal Ln Unit A",
+"street": "25 Rosepetal Ln",
+"desig": "Unit A"
+},
+"1346": {
+"aptlyId": "ipRw4du4MCP5BEzQT",
+"name": "25 Rosepetal Ln Unit B",
+"street": "25 Rosepetal Ln",
+"desig": "Unit B"
+},
+"1172": {
+"aptlyId": "TMBPY29S8MLJyzyvb",
+"name": "25 Ryall Ln Unit A",
+"street": "25 Ryall Ln",
+"desig": "Unit A"
+},
+"1173": {
+"aptlyId": "TN5bfrLti7gumrgQe",
+"name": "25 Ryall Ln Unit B",
+"street": "25 Ryall Ln",
+"desig": "Unit B"
+},
+"1203": {
+"aptlyId": "KPmJffEczRq5Tc7gz",
+"name": "25 Wood Amber Ln Unit A",
+"street": "25 Wood Amber Ln",
+"desig": "Unit A"
+},
+"1204": {
+"aptlyId": "iDoPxdGY6FDf9D964",
+"name": "25 Wood Amber Ln Unit B",
+"street": "25 Wood Amber Ln",
+"desig": "Unit B"
+},
+"1313": {
+"aptlyId": "73iDQa6wWu46bgdTz",
+"name": "27 Braddock Ln Unit A",
+"street": "27 Braddock Ln",
+"desig": "Unit A"
+},
+"1314": {
+"aptlyId": "EEJKxbRDa9EuXgM3A",
+"name": "27 Braddock Ln Unit B",
+"street": "27 Braddock Ln",
+"desig": "Unit B"
+},
+"942": {
+"aptlyId": "ReC22GYGMnhuD2qwk",
+"name": "27 Bunker View Dr Unit A",
+"street": "27 Bunker View Dr",
+"desig": "Unit A"
+},
+"943": {
+"aptlyId": "sjayvJ37QWufFkRcn",
+"name": "27 Bunker View Dr Unit B",
+"street": "27 Bunker View Dr",
+"desig": "Unit B"
+},
+"742": {
+"aptlyId": "38iWC8xKvWavEyPz7",
+"name": "28 Raintree Pl Unit A",
+"street": "28 Raintree Pl",
+"desig": "Unit A"
+},
+"743": {
+"aptlyId": "PuvYw6uXPFn4pd4zK",
+"name": "28 Raintree Pl Unit B",
+"street": "28 Raintree Pl",
+"desig": "Unit B"
+},
+"850": {
+"aptlyId": "sEGZjMdt2TDk5pmfN",
+"name": "28 Slumberland Path Unit A",
+"street": "28 Slumberland Path",
+"desig": "Unit A"
+},
+"851": {
+"aptlyId": "AGzu8mqxkfRdoHd3M",
+"name": "28 Slumberland Path Unit B",
+"street": "28 Slumberland Path",
+"desig": "Unit B"
+},
+"711": {
+"aptlyId": "pQ3MHQAqRmkxdE2zk",
+"name": "29 Eton Lane Unit B",
+"street": "29 Eton Lane",
+"desig": "Unit B"
+},
+"710": {
+"aptlyId": "5y4M7Ffj4tteA5yrE",
+"name": "29 Eton Ln Unit A",
+"street": "29 Eton Ln",
+"desig": "Unit A"
+},
+"1615": {
+"aptlyId": "799mc2Mc3D52PpWMb",
+"name": "3 Unison Court Unit A",
+"street": "3 Unison Court",
+"desig": "Unit A"
+},
+"1616": {
+"aptlyId": "WeYCt2TZrXYjGw4bi",
+"name": "3 Unison Ct Unit B",
+"street": "3 Unison Ct",
+"desig": "Unit B"
+},
+"1293": {
+"aptlyId": "rCrYRZiyvJRXaX4tf",
+"name": "30 Eton Lane Unit A",
+"street": "30 Eton Lane",
+"desig": "Unit A"
+},
+"1294": {
+"aptlyId": "LZbYFqX43hfL9ewb3",
+"name": "30 Eton Ln Unit B",
+"street": "30 Eton Ln",
+"desig": "Unit B"
+},
+"781": {
+"aptlyId": "u3RdMKmuLnFhd97qf",
+"name": "30 Farmsworth Dr Unit A",
+"street": "30 Farmsworth Dr",
+"desig": "Unit A"
+},
+"780": {
+"aptlyId": "GYiggAofTosyKdHPw",
+"name": "30 Farmsworth Dr Unit B",
+"street": "30 Farmsworth Dr",
+"desig": "Unit B"
+},
+"1674": {
+"aptlyId": "CCfiZqcQk925j6vyJ",
+"name": "30 Slumber Path Unit A",
+"street": "30 Slumber Path",
+"desig": "Unit A"
+},
+"1675": {
+"aptlyId": "iEYyhEjqKoALTGmfR",
+"name": "30 Slumber Path Unit B",
+"street": "30 Slumber Path",
+"desig": "Unit B"
+},
+"898": {
+"aptlyId": "2pZ3Ygd7Ae2LwjNxr",
+"name": "31 Rosecroft Ln Unit A",
+"street": "31 Rosecroft Ln",
+"desig": "Unit A"
+},
+"899": {
+"aptlyId": "oHvoNY9gc8TuubmNc",
+"name": "31 Rosecroft Ln Unit B",
+"street": "31 Rosecroft Ln",
+"desig": "Unit B"
+},
+"1206": {
+"aptlyId": "F8Bt6QQEZBDJWwZTA",
+"name": "31 Wellwood Lane Unit A",
+"street": "31 Wellwood Lane",
+"desig": "Unit A"
+},
+"1205": {
+"aptlyId": "kCipfsfCK8Hmj3yc2",
+"name": "31 Wellwood Ln Unit B",
+"street": "31 Wellwood Ln",
+"desig": "Unit B"
+},
+"1131": {
+"aptlyId": "umpnBNijaszipaky8",
+"name": "31 Zoeller Ct Unit A",
+"street": "31 Zoeller Ct",
+"desig": "Unit A"
+},
+"1132": {
+"aptlyId": "oQaMrvig57muptAHH",
+"name": "31 Zoeller Ct Unit B",
+"street": "31 Zoeller Ct",
+"desig": "Unit B"
+},
+"914": {
+"aptlyId": "sWNbJrkTqPQ7Rdaab",
+"name": "33 Lloyd Trl Unit A",
+"street": "33 Lloyd Trl",
+"desig": "Unit A"
+},
+"915": {
+"aptlyId": "ruZ4FkzLKZBPrHZZW",
+"name": "33 Lloyd Trl Unit B",
+"street": "33 Lloyd Trl",
+"desig": "Unit B"
+},
+"752": {
+"aptlyId": "3Ke8uynG8zvB4drr7",
+"name": "33 Louisiana Dr Unit A",
+"street": "33 Louisiana Dr",
+"desig": "Unit A"
+},
+"757": {
+"aptlyId": "GeCp9XESwNexpRysa",
+"name": "33 Louisiana Dr Unit B",
+"street": "33 Louisiana Dr",
+"desig": "Unit B"
+},
+"708": {
+"aptlyId": "ARRaKR6zESd9N6ueN",
+"name": "33 Rosecroft Ln Unit A",
+"street": "33 Rosecroft Ln",
+"desig": "Unit A"
+},
+"709": {
+"aptlyId": "hAyTKXEDnttS6YR3x",
+"name": "33 Rosecroft Ln Unit B",
+"street": "33 Rosecroft Ln",
+"desig": "Unit B"
+},
+"785": {
+"aptlyId": "y7kwXHsGBZChQLxTX",
+"name": "33 Rosepetal Ln Unit A",
+"street": "33 Rosepetal Ln",
+"desig": "Unit A"
+},
+"786": {
+"aptlyId": "v3JgdbNYN8HzZ2NHy",
+"name": "33 Rosepetal Ln Unit B",
+"street": "33 Rosepetal Ln",
+"desig": "Unit B"
+},
+"753": {
+"aptlyId": "cRE6e9j5Ej8je2TSS",
+"name": "35 Louisiana Drive Unit A",
+"street": "35 Louisiana Drive",
+"desig": "Unit A"
+},
+"758": {
+"aptlyId": "ejvNEnp4A3zHKqpcd",
+"name": "35 Louisiana Drive Unit B",
+"street": "35 Louisiana Drive",
+"desig": "Unit B"
+},
+"824": {
+"aptlyId": "6qzcDhcKY63JWFx9G",
+"name": "35 Regent Ln Unit A",
+"street": "35 Regent Ln",
+"desig": "Unit A"
+},
+"825": {
+"aptlyId": "fbrtX6Ah2pFaHGDJi",
+"name": "35 Regent Ln Unit B",
+"street": "35 Regent Ln",
+"desig": "Unit B"
+},
+"1291": {
+"aptlyId": "SCSvYT76Bwx9cfu6E",
+"name": "37 Eton Ln Unit A",
+"street": "37 Eton Ln",
+"desig": "Unit A"
+},
+"1292": {
+"aptlyId": "8pg5JhdA6igujmwC8",
+"name": "37 Eton Ln Unit B",
+"street": "37 Eton Ln",
+"desig": "Unit B"
+},
+"1097": {
+"aptlyId": "uknSFWmH9PWCtHDiu",
+"name": "37 Pine Hurst Lane Unit B",
+"street": "37 Pine Hurst Lane",
+"desig": "Unit B"
+},
+"799": {
+"aptlyId": "eAPzexWXt53ihbwpt",
+"name": "39 Buttonworth Dr Unit A",
+"street": "39 Buttonworth Dr",
+"desig": "Unit A"
+},
+"800": {
+"aptlyId": "2XRvzvSZ4zLgxKzzN",
+"name": "39 Buttonworth Dr Unit B",
+"street": "39 Buttonworth Dr",
+"desig": "Unit B"
+},
+"797": {
+"aptlyId": "tcbwg3oumeuDQzAjN",
+"name": "399 Palm Coast Pkwy SW Unit 1",
+"street": "399 Palm Coast Pkwy SW",
+"desig": "Unit 1"
+},
+"1201": {
+"aptlyId": "AfQWXLnjpP7hXuGqz",
+"name": "4 Wheel Pl Unit A",
+"street": "4 Wheel Pl",
+"desig": "Unit A"
+},
+"1202": {
+"aptlyId": "kkzWSxReKeyiZrThD",
+"name": "4 Wheel Place Unit B",
+"street": "4 Wheel Place",
+"desig": "Unit B"
+},
+"935": {
+"aptlyId": "2mfLQA4fvDYcRsKAF",
+"name": "4 Wheeler Pl Unit A",
+"street": "4 Wheeler Pl",
+"desig": "Unit A"
+},
+"936": {
+"aptlyId": "4By8wbXj2z8PjTzEy",
+"name": "4 Wheeler Pl Unit B",
+"street": "4 Wheeler Pl",
+"desig": "Unit B"
+},
+"1607": {
+"aptlyId": "g5Ftfoq6tKuCDMmdz",
+"name": "40 Prosperity Ln Unit A",
+"street": "40 Prosperity Ln",
+"desig": "Unit A"
+},
+"1606": {
+"aptlyId": "sQEAdiK6fr73v2PLZ",
+"name": "40 Prosperity Ln Unit B",
+"street": "40 Prosperity Ln",
+"desig": "Unit B"
+},
+"1437": {
+"aptlyId": "bRXSgXySJmj4PPqyQ",
+"name": "400 Canopy Walk Lane Unit 443",
+"street": "400 Canopy Walk Lane",
+"desig": "Unit 443"
+},
+"1567": {
+"aptlyId": "AARG83LGECriZtZms",
+"name": "400 Canopy Walk Lane UNIT 444",
+"street": "400 Canopy Walk Lane",
+"desig": "UNIT 444"
+},
+"1619": {
+"aptlyId": "XK6iDen55wHTKurQH",
+"name": "403 North Oleander Ave Unit B",
+"street": "403 North Oleander Ave",
+"desig": "Unit B"
+},
+"1618": {
+"aptlyId": "znLWaCbChqndFenMA",
+"name": "403 North Oleander Avenue Unit A",
+"street": "403 North Oleander Avenue",
+"desig": "Unit A"
+},
+"933": {
+"aptlyId": "7bKCQXvGBgsqQmR93",
+"name": "415 North Halifax Avenue APT 103",
+"street": "415 North Halifax Avenue",
+"desig": "APT 103"
+},
+"767": {
+"aptlyId": "ai7ABPdLfchBoCYNo",
+"name": "42 Coral Reef Ct N Unit A",
+"street": "42 Coral Reef Ct N",
+"desig": "Unit A"
+},
+"768": {
+"aptlyId": "BrzRa4jDE8gbJygqD",
+"name": "42 Coral Reef Ct N Unit B",
+"street": "42 Coral Reef Ct N",
+"desig": "Unit B"
+},
+"1295": {
+"aptlyId": "EZXgbPavD9XwCd9CE",
+"name": "42 Louisburg Ln Unit A",
+"street": "42 Louisburg Ln",
+"desig": "Unit A"
+},
+"1296": {
+"aptlyId": "jqDAefyydYGwDd78K",
+"name": "42 Louisburg Ln Unit B",
+"street": "42 Louisburg Ln",
+"desig": "Unit B"
+},
+"702": {
+"aptlyId": "CtFcBF8LsGQZj9rki",
+"name": "42 Seathorn Path Unit A",
+"street": "42 Seathorn Path",
+"desig": "Unit A"
+},
+"703": {
+"aptlyId": "qpsm9GgTX2hbR6H9P",
+"name": "42 Seathorn Path Unit B",
+"street": "42 Seathorn Path",
+"desig": "Unit B"
+},
+"751": {
+"aptlyId": "Ppu3BfmsYR9272kNH",
+"name": "43 Lloyd Tr Unit A",
+"street": "43 Lloyd Tr",
+"desig": "Unit A"
+},
+"756": {
+"aptlyId": "sC8oqE27zpfs7zDMP",
+"name": "43 Lloyd Tr Unit B",
+"street": "43 Lloyd Tr",
+"desig": "Unit B"
+},
+"1170": {
+"aptlyId": "bNsxZDLbKjsH5RTp4",
+"name": "44 Wellwood Lane Unit A",
+"street": "44 Wellwood Lane",
+"desig": "Unit A"
+},
+"1171": {
+"aptlyId": "pWfbknj7NXEaKjND2",
+"name": "44 Wellwood Lane Unit B",
+"street": "44 Wellwood Lane",
+"desig": "Unit B"
+},
+"1325": {
+"aptlyId": "afFxwFtekkchS7zP4",
+"name": "4600 E Moody Blvd 4P Unit 4P",
+"street": "4600 E Moody Blvd 4P",
+"desig": "Unit 4P"
+},
+"1459": {
+"aptlyId": "feidsC7BMmF3vXSQR",
+"name": "4600 East Moody Boulevard 3M",
+"street": "4600 East Moody Boulevard",
+"desig": "3M"
+},
+"1321": {
+"aptlyId": "zoDYJ2uASrptTAms2",
+"name": "4600 East Moody Boulevard 4I",
+"street": "4600 East Moody Boulevard",
+"desig": "4I"
+},
+"1697": {
+"aptlyId": "ZKxZNxsteseu2sebu",
+"name": "4600 East Moody Boulevard Unit 8M",
+"street": "4600 East Moody Boulevard",
+"desig": "Unit 8M"
+},
+"852": {
+"aptlyId": "ecautaCsN2Td5tLHZ",
+"name": "47 Lloyd Trl Unit A",
+"street": "47 Lloyd Trl",
+"desig": "Unit A"
+},
+"853": {
+"aptlyId": "RTKEHeQMvQzFFJbWw",
+"name": "47 Lloyd Trl Unit B",
+"street": "47 Lloyd Trl",
+"desig": "Unit B"
+},
+"908": {
+"aptlyId": "ACt4roxdjxb53boyo",
+"name": "48 Bren Mar Lane Unit A",
+"street": "48 Bren Mar Lane",
+"desig": "Unit A"
+},
+"909": {
+"aptlyId": "tp2PaEXL8igW86Gf9",
+"name": "48 Bren Mar Ln Unit B",
+"street": "48 Bren Mar Ln",
+"desig": "Unit B"
+},
+"689": {
+"aptlyId": "rziju87zLb6C55oDT",
+"name": "4867 Palm Coast Pkwy NW Unit 1",
+"street": "4867 Palm Coast Pkwy NW",
+"desig": "Unit 1"
+},
+"846": {
+"aptlyId": "hnskYpGqPuseGsznu",
+"name": "49 Lloyd Trl Unit A",
+"street": "49 Lloyd Trl",
+"desig": "Unit A"
+},
+"847": {
+"aptlyId": "i7F387P7Hq34ieq9M",
+"name": "49 Lloyd Trl Unit B",
+"street": "49 Lloyd Trl",
+"desig": "Unit B"
+},
+"910": {
+"aptlyId": "rpfpffLvHJpS8ni76",
+"name": "5 Crabtree Court Unit A",
+"street": "5 Crabtree Court",
+"desig": "Unit A"
+},
+"911": {
+"aptlyId": "B8Sv2nysMeiG4b75i",
+"name": "5 Crabtree Court Unit B",
+"street": "5 Crabtree Court",
+"desig": "Unit B"
+},
+"1689": {
+"aptlyId": "Q9sMkpN3ApStLMcjg",
+"name": "5 Rainstone Lane Unit A",
+"street": "5 Rainstone Lane",
+"desig": "Unit A"
+},
+"1690": {
+"aptlyId": "Cf9Rv7RxSDWCQJzRR",
+"name": "5 Rainstone Lane Unit B",
+"street": "5 Rainstone Lane",
+"desig": "Unit B"
+},
+"1094": {
+"aptlyId": "Cgg9525auXnhrBmuz",
+"name": "5 Riverview Bnd N Unit 311",
+"street": "5 Riverview Bnd N",
+"desig": "Unit 311"
+},
+"1552": {
+"aptlyId": "gG2n6miBpky65bTzQ",
+"name": "5 Seton Court Unit B",
+"street": "5 Seton Court",
+"desig": "Unit B"
+},
+"766": {
+"aptlyId": "fRy9KhyjLrARMEg7f",
+"name": "5 Seton Ct Unit A",
+"street": "5 Seton Ct",
+"desig": "Unit A"
+},
+"858": {
+"aptlyId": "KPQcWK26K2E6BE98B",
+"name": "5 Wells Pl Unit A",
+"street": "5 Wells Pl",
+"desig": "Unit A"
+},
+"859": {
+"aptlyId": "m2SZM4pvfb4MMWwDk",
+"name": "5 Wells Place Unit B",
+"street": "5 Wells Place",
+"desig": "Unit B"
+},
+"1106": {
+"aptlyId": "SSTmX7jKCu4vvLbaq",
+"name": "5 Zoffwood Ct Unit A",
+"street": "5 Zoffwood Ct",
+"desig": "Unit A"
+},
+"1107": {
+"aptlyId": "z75pJwd8nEGxqoy2E",
+"name": "5 Zoffwood Ct Unit B",
+"street": "5 Zoffwood Ct",
+"desig": "Unit B"
+},
+"892": {
+"aptlyId": "2ESSTJkLvxgQi9jTC",
+"name": "50 Leanni Way Unit C3",
+"street": "50 Leanni Way",
+"desig": "Unit C3"
+},
+"893": {
+"aptlyId": "z48EuTwLh7kSF2aup",
+"name": "50 Leanni Way Unit C4",
+"street": "50 Leanni Way",
+"desig": "Unit C4"
+},
+"1661": {
+"aptlyId": "dRneCQS2tosyD94we",
+"name": "509 North Central Avenue Unit B",
+"street": "509 North Central Avenue",
+"desig": "Unit B"
+},
+"1553": {
+"aptlyId": "srBNtTKhjweQuEea2",
+"name": "511 North Central Avenue Unit A",
+"street": "511 North Central Avenue",
+"desig": "Unit A"
+},
+"1683": {
+"aptlyId": "QW3XP8TfR5BpcBEC3",
+"name": "55 Louisiana Dr Unit A",
+"street": "55 Louisiana Dr",
+"desig": "Unit A"
+},
+"1684": {
+"aptlyId": "qrzdFyx7GoK8ym6qG",
+"name": "55 Louisiana Dr Unit B",
+"street": "55 Louisiana Dr",
+"desig": "Unit B"
+},
+"1638": {
+"aptlyId": "uWHy9SEmnGY63dkkh",
+"name": "56 Club House Drive Unit 206",
+"street": "56 Club House Drive",
+"desig": "Unit 206"
+},
+"1053": {
+"aptlyId": "SnH46aYBPeRgEd9sW",
+"name": "57 Louisiana Dr Unit A",
+"street": "57 Louisiana Dr",
+"desig": "Unit A"
+},
+"1054": {
+"aptlyId": "fuR86ujKRpGt8k2yq",
+"name": "57 Louisiana Drive Unit B",
+"street": "57 Louisiana Drive",
+"desig": "Unit B"
+},
+"1595": {
+"aptlyId": "chyr2SfGYtR9EpP3H",
+"name": "6 Lloshire Path A Unit A",
+"street": "6 Lloshire Path A",
+"desig": "Unit A"
+},
+"1596": {
+"aptlyId": "QApDnDkKT7MouEv8Z",
+"name": "6 Lloshire Path Unit B",
+"street": "6 Lloshire Path",
+"desig": "Unit B"
+},
+"1311": {
+"aptlyId": "zz3GE2GnooWtqgNA6",
+"name": "6 Plateau Lane Unit B",
+"street": "6 Plateau Lane",
+"desig": "Unit B"
+},
+"1310": {
+"aptlyId": "p5GgSprEyXjLPgb4d",
+"name": "6 Plateau Ln Unit A",
+"street": "6 Plateau Ln",
+"desig": "Unit A"
+},
+"1511": {
+"aptlyId": "DG9sTigNqGY5pdoXd",
+"name": "6 Prosperity Lane Unit B",
+"street": "6 Prosperity Lane",
+"desig": "Unit B"
+},
+"1620": {
+"aptlyId": "SqFCDPGxaYitCJTBA",
+"name": "6 Rainbow Lane Unit A",
+"street": "6 Rainbow Lane",
+"desig": "Unit A"
+},
+"1593": {
+"aptlyId": "gokaJk352c5nhfQoa",
+"name": "6 Rainbow Lane Unit B",
+"street": "6 Rainbow Lane",
+"desig": "Unit B"
+},
+"808": {
+"aptlyId": "XwCHHgoJmgDDKY886",
+"name": "6 Union Run Court Unit A",
+"street": "6 Union Run Court",
+"desig": "Unit A"
+},
+"809": {
+"aptlyId": "eNTfpXMivjeMHRwGZ",
+"name": "6 Union Run Court Unit B",
+"street": "6 Union Run Court",
+"desig": "Unit B"
+},
+"923": {
+"aptlyId": "fFMKpaWimporw5C5N",
+"name": "69 Rose Dr Unit A",
+"street": "69 Rose Dr",
+"desig": "Unit A"
+},
+"924": {
+"aptlyId": "kjFD2hssgd5ucaENS",
+"name": "69 Rose Dr Unit B",
+"street": "69 Rose Dr",
+"desig": "Unit B"
+},
+"1563": {
+"aptlyId": "97NdcMAistE8LzN9w",
+"name": "69 Ullian Trail Unit A",
+"street": "69 Ullian Trail",
+"desig": "Unit A"
+},
+"1564": {
+"aptlyId": "EtWmxh8JgWMdCT9xP",
+"name": "69 Ullian Trail Unit B",
+"street": "69 Ullian Trail",
+"desig": "Unit B"
+},
+"891": {
+"aptlyId": "YKehFMJPz4nCFCvvT",
+"name": "7 Crabtree Court Unit A",
+"street": "7 Crabtree Court",
+"desig": "Unit A"
+},
+"888": {
+"aptlyId": "kKkRircsT3vgqBcP7",
+"name": "7 Crabtree Ct Unit B",
+"street": "7 Crabtree Ct",
+"desig": "Unit B"
+},
+"895": {
+"aptlyId": "LTLiFs3Qe2G2ZgbvL",
+"name": "7 Ryarbor Dr Unit A",
+"street": "7 Ryarbor Dr",
+"desig": "Unit A"
+},
+"896": {
+"aptlyId": "tYzXwE5Syp3iYMSsk",
+"name": "7 Ryarbor Dr Unit B",
+"street": "7 Ryarbor Dr",
+"desig": "Unit B"
+},
+"750": {
+"aptlyId": "AooPdwnwHy8iysGcT",
+"name": "7 Seathorn Path Unit A",
+"street": "7 Seathorn Path",
+"desig": "Unit A"
+},
+"755": {
+"aptlyId": "RAmj4t9MiRRZuhX3t",
+"name": "7 Seathorn Path Unit B",
+"street": "7 Seathorn Path",
+"desig": "Unit B"
+},
+"798": {
+"aptlyId": "EAbcNKpoBkNZsB3f3",
+"name": "7 Wheaton Ln Unit B",
+"street": "7 Wheaton Ln",
+"desig": "Unit B"
+},
+"1447": {
+"aptlyId": "zjyRa7JBfnYJ5afwi",
+"name": "705 N Ocean Shore Blvd Unit A (Left side)",
+"street": "705 N Ocean Shore Blvd",
+"desig": "Unit A (Left side)"
+},
+"1448": {
+"aptlyId": "G9NxmW44rZ8nB4R7o",
+"name": "705 N Ocean Shore Blvd Unit B (Right side)",
+"street": "705 N Ocean Shore Blvd",
+"desig": "Unit B (Right side)"
+},
+"1622": {
+"aptlyId": "9QrccMtTToWS7v6BM",
+"name": "76 Rickenbacker Dr Unit B",
+"street": "76 Rickenbacker Dr",
+"desig": "Unit B"
+},
+"1594": {
+"aptlyId": "LrbcQDknaicsR4oKr",
+"name": "76 Rickenbacker Drive Unit A",
+"street": "76 Rickenbacker Drive",
+"desig": "Unit A"
+},
+"814": {
+"aptlyId": "YrvGNrAbtQ4ckngi5",
+"name": "77 Sea Trl Unit A",
+"street": "77 Sea Trl",
+"desig": "Unit A"
+},
+"815": {
+"aptlyId": "R6HagdnwQhS37RJKi",
+"name": "77 Sea Trl Unit B",
+"street": "77 Sea Trl",
+"desig": "Unit B"
+},
+"1496": {
+"aptlyId": "8c7ihergRsuPsa326",
+"name": "8 Pine Hill Lane Unit A",
+"street": "8 Pine Hill Lane",
+"desig": "Unit A"
+},
+"1495": {
+"aptlyId": "BfH5XaFTfS3E5vcfd",
+"name": "8 Pine Hill Lane Unit B",
+"street": "8 Pine Hill Lane",
+"desig": "Unit B"
+},
+"1056": {
+"aptlyId": "Mh5TvL2jy68uTu8nz",
+"name": "8 Regency Drive A Unit A",
+"street": "8 Regency Drive A",
+"desig": "Unit A"
+},
+"1057": {
+"aptlyId": "7NspZFWcg7P4KrEW7",
+"name": "8 Regency Drive Unit B",
+"street": "8 Regency Drive",
+"desig": "Unit B"
+},
+"1583": {
+"aptlyId": "hDsELmDGmECvWtECH",
+"name": "8 Rosalie Place Unit A",
+"street": "8 Rosalie Place",
+"desig": "Unit A"
+},
+"959": {
+"aptlyId": "7kyJLCWTF3oc5krMC",
+"name": "80 Riverview Bend South Unit 813",
+"street": "80 Riverview Bend South",
+"desig": "Unit 813"
+},
+"1090": {
+"aptlyId": "ZJotbj39FDcYqaeTg",
+"name": "80 Riverview Bnd S Unit 812",
+"street": "80 Riverview Bnd S",
+"desig": "Unit 812"
+},
+"804": {
+"aptlyId": "ke4c5nvKvPeqvDfkN",
+"name": "82 Laramie Dr Unit A",
+"street": "82 Laramie Dr",
+"desig": "Unit A"
+},
+"805": {
+"aptlyId": "aEJ4RYE3bJRzesc2e",
+"name": "82 Laramie Dr Unit B",
+"street": "82 Laramie Dr",
+"desig": "Unit B"
+},
+"1687": {
+"aptlyId": "FgcGByQ5dAfWKTonp",
+"name": "85 Fieldstone Ln Unit A",
+"street": "85 Fieldstone Ln",
+"desig": "Unit A"
+},
+"885": {
+"aptlyId": "rfXqgug74pCHASu3J",
+"name": "85 Fieldstone Ln Unit B",
+"street": "85 Fieldstone Ln",
+"desig": "Unit B"
+},
+"857": {
+"aptlyId": "xGHCYBGJA4RXttvBh",
+"name": "8550 Argyle Business Loop Unit 1106",
+"street": "8550 Argyle Business Loop",
+"desig": "Unit 1106"
+},
+"1608": {
+"aptlyId": "jWKLN4ykKtm6bp9Nz",
+"name": "86 Laramie Drive Unit A",
+"street": "86 Laramie Drive",
+"desig": "Unit A"
+},
+"1609": {
+"aptlyId": "cj8LBw8tNT2axLCZu",
+"name": "86 Laramie Drive Unit B",
+"street": "86 Laramie Drive",
+"desig": "Unit B"
+},
+"1541": {
+"aptlyId": "tnkA5vxkS7T77TtBo",
+"name": "87 Pony Express Drive Unit A",
+"street": "87 Pony Express Drive",
+"desig": "Unit A"
+},
+"1542": {
+"aptlyId": "LQuEXLZaDccZWqjpk",
+"name": "87 Pony Express Drive Unit B",
+"street": "87 Pony Express Drive",
+"desig": "Unit B"
+},
+"698": {
+"aptlyId": "ZgR72Xm2LG6uSHa6w",
+"name": "87 Sea Trl Unit A",
+"street": "87 Sea Trl",
+"desig": "Unit A"
+},
+"699": {
+"aptlyId": "qSwF47RsjZb7xTsmN",
+"name": "87 Sea Trl Unit B",
+"street": "87 Sea Trl",
+"desig": "Unit B"
+},
+"1610": {
+"aptlyId": "fx8XzN3BoQXtGJFtR",
+"name": "88 Plainview Dr Unit A",
+"street": "88 Plainview Dr",
+"desig": "Unit A"
+},
+"790": {
+"aptlyId": "j8neJwndQ6foLEcSN",
+"name": "88 Plainview Dr Unit B",
+"street": "88 Plainview Dr",
+"desig": "Unit B"
+},
+"819": {
+"aptlyId": "CvMgR3dAnmQaZ2Y3P",
+"name": "88 Secretary Trail B Unit B",
+"street": "88 Secretary Trail B",
+"desig": "Unit B"
+},
+"818": {
+"aptlyId": "CegWrEp2Debhntv5s",
+"name": "88 Secretary Trail Unit A",
+"street": "88 Secretary Trail",
+"desig": "Unit A"
+},
+"889": {
+"aptlyId": "QPpBFYn2PFgyXyxMy",
+"name": "9 Crabtree Court Unit A",
+"street": "9 Crabtree Court",
+"desig": "Unit A"
+},
+"890": {
+"aptlyId": "7cS3EietsrYtffxF2",
+"name": "9 Crabtree Court Unit B",
+"street": "9 Crabtree Court",
+"desig": "Unit B"
+},
+"921": {
+"aptlyId": "34YFov9RyyucizbkC",
+"name": "9 Rosepetal Lane Unit A",
+"street": "9 Rosepetal Lane",
+"desig": "Unit A"
+},
+"922": {
+"aptlyId": "2S7AFAhfR6E5KDjNS",
+"name": "9 Rosepetal Lane Unit B",
+"street": "9 Rosepetal Lane",
+"desig": "Unit B"
+},
+"1450": {
+"aptlyId": "mi443crh9FYCHYW5K",
+"name": "900 Cinnamon Beach Way #842",
+"street": "900 Cinnamon Beach Way",
+"desig": "#842"
+},
+"1266": {
+"aptlyId": "kAr9C2wi3aFnwh9ys",
+"name": "94 Slumber Meadow Trail Unit A",
+"street": "94 Slumber Meadow Trail",
+"desig": "Unit A"
+},
+"1267": {
+"aptlyId": "apTBtWtbQPNCX8fbq",
+"name": "94 Slumber Meadow Trail Unit B",
+"street": "94 Slumber Meadow Trail",
+"desig": "Unit B"
+},
+"764": {
+"aptlyId": "XTzQtJA72SuMoCRz5",
+"name": "96 Underwood Trl Unit A",
+"street": "96 Underwood Trl",
+"desig": "Unit A"
+},
+"772": {
+"aptlyId": "TpA55jF2QvMbgaqxL",
+"name": "96 Underwood Trl Unit B",
+"street": "96 Underwood Trl",
+"desig": "Unit B"
+},
+"1268": {
+"aptlyId": "XT9F8YCSoaQCuxFCo",
+"name": "99 Rolling Sands Drive Unit A",
+"street": "99 Rolling Sands Drive",
+"desig": "Unit A"
+},
+"1269": {
+"aptlyId": "QiemBp76y5xo2QQse",
+"name": "99 Rolling Sands Drive Unit B",
+"street": "99 Rolling Sands Drive",
+"desig": "Unit B"
+}
+},
+"byStreet": {
+"1 Bay Pointe Drive": {
+"aptlyId": "BimnuJzxeGRXZ42es",
+"name": "Plantation Bay"
+},
+"1 Bedford Dr": {
+"aptlyId": "r5PvdGuMiBXdx6xFW",
+"name": "Sea Colony"
+},
+"1 Carlson Ct": {
+"aptlyId": "bNaXncJy4Mu2dAf5p",
+"name": "1 Carlson Ct"
+},
+"1 Penn Manor Lane": {
+"aptlyId": "eHo4DpSL3pikHnqZj",
+"name": "1 Penn Manor Ln"
+},
+"1 Ziegler Place": {
+"aptlyId": "5ydeJfiKwrCH7hYMs",
+"name": "1 Ziegler Place"
+},
+"10 Marina Point Place": {
+"aptlyId": "w3WbTuvmZpTKmi3ci",
+"name": "10 Marina Point Place"
+},
+"10 Oconee Drive": {
+"aptlyId": "PGPDxuF9rYPP3kH37",
+"name": "10 Oconee Drive"
+},
+"100 White Hall Drive": {
+"aptlyId": "K9Wi3ywC9tAYKTt2g",
+"name": "100 White Hall Drive"
+},
+"101 Boulder Rock Dr": {
+"aptlyId": "rCMLsdDGN9oe6Exn6",
+"name": "101 Boulder Rock Dr"
+},
+"102 Brittany Lane": {
+"aptlyId": "3Q8Ek2sXmgeRxuyzH",
+"name": "102 Brittany Ln"
+},
+"108 Plainview Drive": {
+"aptlyId": "iL3JWFfGbgzoYCLTy",
+"name": "108 Plainview Drive"
+},
+"11 Burning Ember Lane": {
+"aptlyId": "f5QNWdRYihik7ZFQp",
+"name": "11 Burning Ember Lane"
+},
+"11 Deerfield Court": {
+"aptlyId": "rdBG3tzx4bC7wtptF",
+"name": "11 Deerfield Ct"
+},
+"11 Ellsworth Dr": {
+"aptlyId": "3hCk7KYinZz5Cxtir",
+"name": "11 Ellsworth Dr"
+},
+"11 Roxland Ln": {
+"aptlyId": "MSkZLtgq2Pssj4aMv",
+"name": "11 Roxland Ln"
+},
+"11 Surrey Court": {
+"aptlyId": "QnfTzEHLp7mqYEjrG",
+"name": "11 Surrey Court"
+},
+"111 Laguna Forest Trail": {
+"aptlyId": "YWazEwSHgfsnv4kkp",
+"name": "111 Laguna Forest Trl"
+},
+"114 Del Palma Drive": {
+"aptlyId": "r73owYWvBkhLdeyRr",
+"name": "114 Del Palma Drive"
+},
+"116 London Dr": {
+"aptlyId": "PjKBDsKsSfrdqr3eh",
+"name": "116 London Dr"
+},
+"12 Ferndale Ln": {
+"aptlyId": "BY6Thcw8jQE8GGdfF",
+"name": "12 Ferndale Ln"
+},
+"12 Pierce Ln": {
+"aptlyId": "9zBPuuwWhz2getrXT",
+"name": "12 Pierce Ln"
+},
+"12 Pine Brook Drive": {
+"aptlyId": "fPfoSHwkJ8istfswy",
+"name": "12 Pine Brook Dr"
+},
+"12 Smokehouse Place": {
+"aptlyId": "aMRnC76X2rqEGMdCn",
+"name": "12 Smokehouse Pl"
+},
+"1216 Hampstead Lane": {
+"aptlyId": "TCbnMAv46RCyk3Eem",
+"name": "1216 Hampstead Lane"
+},
+"124 Oakleaf Way": {
+"aptlyId": "8XbR5ePvRAyyN4bFG",
+"name": "Sawmill Creek"
+},
+"13 Red Birch Ln": {
+"aptlyId": "yZePnBaEiR7LvWm3i",
+"name": "13 Red Birch Ln"
+},
+"13 Sergeant Court": {
+"aptlyId": "SmRyPfs7rMKFbsJpz",
+"name": "13 Sergeant Ct"
+},
+"136 Cochise Court": {
+"aptlyId": "PKv9K3prBa3WfQ4dX",
+"name": "136 Cochise Court"
+},
+"14 Bolling Lane": {
+"aptlyId": "mH9HNbXkd4E392sf3",
+"name": "14 Bolling Lane"
+},
+"14 Frenora Ln": {
+"aptlyId": "ZmnSagRN7xovAB7Ek",
+"name": "14 Frenora Ln"
+},
+"14 Pine Cottage Ln": {
+"aptlyId": "KhvvhbewcaNurcyxe",
+"name": "14 Pine Cottage Ln"
+},
+"14 Underwick Path": {
+"aptlyId": "G4dFN7ZyYgW4otSP9",
+"name": "14 Underwick Path"
+},
+"143 Wood Stork Lane": {
+"aptlyId": "mxnvjaPzj8KopLQjN",
+"name": "143 Wood Stork Lane"
+},
+"15 Pine Tree Dr": {
+"aptlyId": "n2dAJskq4WShTBCw4",
+"name": "15 Pine Tree Dr"
+},
+"15 White Deer Lane": {
+"aptlyId": "eREJnWsoovtKBmiG3",
+"name": "15 White Deer Ln"
+},
+"1501 Lambert Ave": {
+"aptlyId": "FLTvEnML8eu7i32vR",
+"name": "1501 Lambert Ave"
+},
+"154 Point Pleasant Drive": {
+"aptlyId": "KhgunRPAGnGJkseTT",
+"name": "154 Point Pleasant Drive"
+},
+"157 Belleaire Dr": {
+"aptlyId": "YwTWFhiNEseNQAFgq",
+"name": "157 Belleaire Dr"
+},
+"16 Barring Pl": {
+"aptlyId": "czFAN6C72hgbGHyMP",
+"name": "16 Barring Pl"
+},
+"16 Eastlake Drive": {
+"aptlyId": "yKhM8nYoxD4kYLLKB",
+"name": "16 Eastlake Dr"
+},
+"16 Farson Ln": {
+"aptlyId": "NaXHQmNAzrovfbRkn",
+"name": "16 Farson Ln"
+},
+"16 Porpoise Lane": {
+"aptlyId": "cB24yPieTxjGAbGPh",
+"name": "16 Porpoise Ln"
+},
+"16 Richland Lane": {
+"aptlyId": "eFRkpMNeRWcbifrno",
+"name": "16 Richland Lane"
+},
+"166 Coquina Key Drive": {
+"aptlyId": "48BRN74Fu7phxxKpQ",
+"name": "166 Coquina Key Drive"
+},
+"17 Egret Dr": {
+"aptlyId": "AABjBE5gPA6nwcFAu",
+"name": "17 Egret Dr"
+},
+"17 Evansville Ln": {
+"aptlyId": "upzvmTccECxbvMaqp",
+"name": "17 Evansville Ln"
+},
+"17 North Village Drive": {
+"aptlyId": "N74DEhkEEP7XLMGez",
+"name": "17 N Village Dr"
+},
+"17 Oasis Circle": {
+"aptlyId": "mK4y2RjTRnG7nBXtC",
+"name": "Grand Haven"
+},
+"172 Charlie Way": {
+"aptlyId": "Cqr3YETw83L3yH7Re",
+"name": "Beacon Lakes"
+},
+"175 Eric Dr": {
+"aptlyId": "A7iT2E7mLbepQkahZ",
+"name": "175 Eric Dr"
+},
+"184 Deep Woods Way": {
+"aptlyId": "YYDDA8Pasff96S5rK",
+"name": "184 Deep Woods Way"
+},
+"19 Burning Ember Ln": {
+"aptlyId": "TBssTzoyZMM7jqzJR",
+"name": "19 Burning Ember Ln"
+},
+"19 Ethel Lane": {
+"aptlyId": "8SMCqxMkZaYpXDiko",
+"name": "19 Ethel Lane"
+},
+"19 Waverly Ln": {
+"aptlyId": "atpTzPvCkb9yrhsjm",
+"name": "19 Waverly Ln"
+},
+"190 Riverview Bend S Unit 1024": {
+"aptlyId": "a43hJJtzujuEcXQnX",
+"name": "954 - 190 Riverview Bnd S Unit 1024"
+},
+"192 Pine Grove Drive": {
+"aptlyId": "RjD4coWkbJmCkfz8S",
+"name": "192 Pine Grove Dr"
+},
+"2 Rae Pl": {
+"aptlyId": "PkGhrPow4AyjSTzvG",
+"name": "2 Rae Pl"
+},
+"20 Oakleaf Way": {
+"aptlyId": "AibkwAndyxaX6Z646",
+"name": "Sawmill Creek"
+},
+"20 Wheeler Lane": {
+"aptlyId": "kQANBSs2XS5KhARPs",
+"name": "20 Wheeler Ln"
+},
+"205 Beechwood Lane": {
+"aptlyId": "GxpWSRoHbtxibiaJN",
+"name": "205 Beechwood Lane"
+},
+"207 Redbud Road": {
+"aptlyId": "Hp9SKpZJuNWyuQux9",
+"name": "207 Redbud Road"
+},
+"22 Rybar Lane": {
+"aptlyId": "5c329RbiF2t92Fn6E",
+"name": "22 Rybar Lane"
+},
+"23 Primrose Lane": {
+"aptlyId": "YJoJ23BegeibooNcM",
+"name": "23 Primrose Ln"
+},
+"23 Westrock Lane": {
+"aptlyId": "4uYxttGerd7KJ673B",
+"name": "23 Westrock Ln"
+},
+"24 Edgely Ln": {
+"aptlyId": "zfHrLnrCMt68bYbHt",
+"name": "24 Edgely Ln"
+},
+"24 Windsor Terrace": {
+"aptlyId": "BntbNbPMZaicn4xeq",
+"name": "Villages of White View-KB Homes"
+},
+"25 Hulett Woods Road": {
+"aptlyId": "H7RsckkWDWCSZkehk",
+"name": "Sawmill Branch"
+},
+"26 Folson Lane": {
+"aptlyId": "ZoXo47QMeX3rxQvKF",
+"name": "26 Folson Ln"
+},
+"26 Landings Lane": {
+"aptlyId": "d6eqnXzevhQegmKqt",
+"name": "26 Landings Lane"
+},
+"26 Roller Lane": {
+"aptlyId": "6sLqpAszDLgXKrTjK",
+"name": "26 Roller Ln"
+},
+"27 Barkley Ln": {
+"aptlyId": "cD2DT7xPp8g5nbJdJ",
+"name": "27 Barkley Ln"
+},
+"27 Riverdale Ln": {
+"aptlyId": "tPCvxTpBNZX9ocqpM",
+"name": "27 Riverdale Ln"
+},
+"28 Ranwood Ln": {
+"aptlyId": "iW86NbFrCLYiWKfsZ",
+"name": "28 Ranwood Ln"
+},
+"28 Uthorne Place": {
+"aptlyId": "H2WSqC3yeAzyMicpk",
+"name": "28 Uthorne Place"
+},
+"285 Sunset Point Dr": {
+"aptlyId": "KsE5YtFezvyRHkfGC",
+"name": "Pineland Community"
+},
+"3 Cedarford Court": {
+"aptlyId": "AdT84WxBKqYbD9xRC",
+"name": "3 Cedarford Court"
+},
+"3 Cherokee Ct W": {
+"aptlyId": "Go4D7RkiRfM2YSJWC",
+"name": "3 Cherokee Ct W"
+},
+"3 Lancelot Drive": {
+"aptlyId": "9YNMgDTSdizYfJamj",
+"name": "3 Lancelot Drive"
+},
+"3 Sea Beacon Pl": {
+"aptlyId": "2jqgXcd2JhWwQvMJP",
+"name": "3 Sea Beacon Pl"
+},
+"3 Senora Court": {
+"aptlyId": "hNHMowpWdKst85vne",
+"name": "3 Senora Ct"
+},
+"31 Baltimore Ln": {
+"aptlyId": "nYScx5NsqpcxRm8xQ",
+"name": "31 Baltimore Ln"
+},
+"31 Comanche Ct": {
+"aptlyId": "5z6cfvE9kDNrX3Y8K",
+"name": "31 Comanche Ct"
+},
+"31 Peppercorn Ln": {
+"aptlyId": "Sa2oCv4aSRXpmyZEh",
+"name": "31 Peppercorn Ln"
+},
+"31 Slumber Path": {
+"aptlyId": "xW6p5y5StZE6yZsdT",
+"name": "31 Slumber Path"
+},
+"314 Redbud Road": {
+"aptlyId": "pqcJL8z6i9yDgKtwt",
+"name": "314 Redbud Road"
+},
+"32 Slumber Path": {
+"aptlyId": "tDtyHTYLGyRexXJkH",
+"name": "32 Slumber Path"
+},
+"33 Lagare Street": {
+"aptlyId": "uAm68jsFisziisuTL",
+"name": "33 Lagare St"
+},
+"33 Poinsettia Lane": {
+"aptlyId": "wm6s9waWG4yfFdtKz",
+"name": "33 Poinsettia Lane"
+},
+"33 Riverview Drive": {
+"aptlyId": "QDxh2CuwuiebRuPsL",
+"name": "33 Riverview Dr"
+},
+"33 Ryder Dr": {
+"aptlyId": "goyBwFZWh2QnpKxmy",
+"name": "33 Ryder Dr"
+},
+"34 Andover Drive": {
+"aptlyId": "hXF2zRjBt5RKj4DJS",
+"name": "34 Andover Drive"
+},
+"34 Poindexter Ln": {
+"aptlyId": "3Gx2CpBGb4TLaZxtS",
+"name": "34 Poindexter Ln"
+},
+"34 Renshaw Drive": {
+"aptlyId": "iaP5yWk6zKFQKnfAx",
+"name": "34 Renshaw Drive"
+},
+"340 Ocean Crest Drive": {
+"aptlyId": "PhdKCuYnZsfReYznT",
+"name": "340 Ocean Crest Drive"
+},
+"344 Redbud Rd": {
+"aptlyId": "RpukkELrNmAYNe4RP",
+"name": "The Trails"
+},
+"36 Frenora Ln": {
+"aptlyId": "AGE4LYA4bqRvJ3gB2",
+"name": "36 Frenora Ln"
+},
+"36 Reidsville Dr": {
+"aptlyId": "44kzshT2iX9QyThZa",
+"name": "36 Reidsville Dr"
+},
+"37 Buttermill Dr": {
+"aptlyId": "WMw8uE7zx2T2wWeBi",
+"name": "37 Buttermill Dr"
+},
+"38 Baltimore Lane": {
+"aptlyId": "F82LT8wmztXTRG8K2",
+"name": "38 Baltimore Ln"
+},
+"38 Bud Field Dr": {
+"aptlyId": "5RGFLXNt6BY4NFEsW",
+"name": "38 Bud Field Dr"
+},
+"39 Red Clover Ln": {
+"aptlyId": "vDn837arHv78FTwbz",
+"name": "39 Red Clover Ln"
+},
+"4 Grand View Dr": {
+"aptlyId": "uNYRPmtHkfwzvjLaY",
+"name": "4 Grand View Dr"
+},
+"4 Lynn Pl": {
+"aptlyId": "4iBGqgYwSMy9zKcD3",
+"name": "4 Lynn Pl"
+},
+"4 Southbury Court": {
+"aptlyId": "hZteWre3mMFJxcj6R",
+"name": "4 Southbury Court"
+},
+"40 Arrowhead Dr": {
+"aptlyId": "u5FsA6wzGHHZ62ngd",
+"name": "40 Arrowhead Dr"
+},
+"40 Kashmir Trail": {
+"aptlyId": "qb4Dx4CtrRBsGmcJP",
+"name": "40 Kashmir Trail"
+},
+"43 Jasmine Dr": {
+"aptlyId": "otos2frJthiufdjvu",
+"name": "43 Jasmine Dr"
+},
+"44 Pine Hurst Lane": {
+"aptlyId": "DHFPz7h7WRzzRkhB8",
+"name": "44 Pine Hurst Ln"
+},
+"44 Sea Vista Drive": {
+"aptlyId": "eNwachgewhwCHtPZp",
+"name": "44 Sea Vista Drive"
+},
+"45 Bud Field Dr": {
+"aptlyId": "TYuwe8Kg7Fu5iKWEm",
+"name": "45 Bud Field Dr"
+},
+"4600 E Moody Blvd  unit 14D": {
+"aptlyId": "JGtvQiNY9yZbw7DSv",
+"name": "1051 - 4600 E Moody Blvd  unit 14D"
+},
+"4600 E Moody Blvd Bldg 4H": {
+"aptlyId": "trsu7nYetpaWXR3Yd",
+"name": "1223 - 4600 E Moody Blvd Bldg 4H"
+},
+"5 Kathleen Trail": {
+"aptlyId": "uTHCJDhxXHADiTZ8w",
+"name": "5 Kathleen Trl"
+},
+"5 Llestone Path": {
+"aptlyId": "DoWivaWGeQwYvBBJW",
+"name": "5 Llestone Path"
+},
+"5 Rambling Ln": {
+"aptlyId": "uTAj2ZGXK7RnX8rRz",
+"name": "5 Rambling Ln"
+},
+"5 Robin Hood Lane": {
+"aptlyId": "CScthnkhpyqSdGMKm",
+"name": "5 Robin Hood Lane"
+},
+"5 Village View Drive": {
+"aptlyId": "WkEps6b92cxxkbiWp",
+"name": "5 Village View Drive"
+},
+"5 Wendlin Ln": {
+"aptlyId": "PdoLR7tgiAymdAQyw",
+"name": "5 Wendlin Ln"
+},
+"50 Boxwood Lane": {
+"aptlyId": "G6X2FnhsJpp86nCXW",
+"name": "50 Boxwood Ln"
+},
+"50 Moana Ct S": {
+"aptlyId": "ECNBj2XewsXaNvadf",
+"name": "50 Moana Ct S"
+},
+"56 Pin Oak Dr": {
+"aptlyId": "3ZmGJpd9yx5gh33e5",
+"name": "56 Pin Oak Dr"
+},
+"56 Shinnecock Drive": {
+"aptlyId": "6yhbyS5nG5NamcJ8x",
+"name": "56 Shinnecock Dr"
+},
+"59 Fallen Oak Ln": {
+"aptlyId": "b2vJkBpFCtLwxEPYk",
+"name": "59 Fallen Oak Ln"
+},
+"59 Oakleaf Way": {
+"aptlyId": "zts8i9kTcN9rLKCov",
+"name": "59 Oakleaf Way"
+},
+"59 Waterfront Park Rd": {
+"aptlyId": "oQyfQ6ck8tpQjcnen",
+"name": "59 Waterfront Park Rd"
+},
+"6 Kathleen Trl": {
+"aptlyId": "Zd7ckPB2ipDpcQdsj",
+"name": "6 Kathleen Trl"
+},
+"6 Lleberry Path": {
+"aptlyId": "Mm3SoofjnerAP7MKW",
+"name": "6 Lleberry Path"
+},
+"6 Rosalie Pl": {
+"aptlyId": "WW6AuFg3dcEdbPca4",
+"name": "6 Rosalie Pl"
+},
+"6 Rosedale Pl": {
+"aptlyId": "J2Q6zfz6HfT5ydfdB",
+"name": "6 Rosedale Pl"
+},
+"6 Seckel Ct": {
+"aptlyId": "FCh7oKfwZXSRfnPBG",
+"name": "6 Seckel Ct"
+},
+"6 Zither Ct": {
+"aptlyId": "aEE5p9SZMmf9QPqGw",
+"name": "6 Zither Ct"
+},
+"60 Universal Trl": {
+"aptlyId": "LTbGzjkHuzxugcw47",
+"name": "60 Universal Trl"
+},
+"62 Forrester Place": {
+"aptlyId": "janHbRaB8urdkv9Gx",
+"name": "62 Forrester Place"
+},
+"64 Franciscan Ln": {
+"aptlyId": "bnB8YfFewWQPGMiBe",
+"name": "64 Franciscan Ln"
+},
+"65 Raemoor Dr": {
+"aptlyId": "QMGapyNYriDzCiWHZ",
+"name": "65 Raemoor Dr"
+},
+"65 Rolling Fern Dr": {
+"aptlyId": "WdgmAXuaZcSZ296XZ",
+"name": "65 Rolling Fern Dr"
+},
+"699 Grand Reserve Drive": {
+"aptlyId": "8iNZ6hw6CYZ6Md4TN",
+"name": "699 Grand Reserve Dr"
+},
+"7 Rainrock Pl": {
+"aptlyId": "ojtXgzdkyMfpMK755",
+"name": "7 Rainrock Pl"
+},
+"7 Saint Andrews Ct": {
+"aptlyId": "CHZuwxuu2iqGZx4DW",
+"name": "7 Saint Andrews Ct"
+},
+"706 Cobblestone Dr": {
+"aptlyId": "Z5BFXxKjsGa3nF2q3",
+"name": "706 Cobblestone Dr"
+},
+"8 Fernon Ln": {
+"aptlyId": "mH5kjBqaCHjNf6SDX",
+"name": "8 Fernon Ln"
+},
+"8 Rivergate Lane": {
+"aptlyId": "b58CzjrDTYYGNJfc5",
+"name": "8 Rivergate Ln"
+},
+"8 Sea Flower Path": {
+"aptlyId": "FbRw2bgDneJHRraXu",
+"name": "8 Sea Flower Path"
+},
+"8 Wheeling Ln": {
+"aptlyId": "pjAeghbsutLahXyJJ",
+"name": "8 Wheeling Ln"
+},
+"80 Oakleaf Way": {
+"aptlyId": "aXKNiFSmT6c8zMMqB",
+"name": "80 Oakleaf Way"
+},
+"83 Pheasant Dr": {
+"aptlyId": "SKpQkTBRMbYNP2Ach",
+"name": "83 Pheasant Dr"
+},
+"85 Red Mill Drive": {
+"aptlyId": "6n47WhCTc3ovoWaMs",
+"name": "85 Red Mill Dr"
+},
+"89 Farragut Dr": {
+"aptlyId": "qXK64H3a7JFbjoneY",
+"name": "89 Farragut Dr"
+},
+"9 Kannapolis Place": {
+"aptlyId": "5Ga7is79khFg3ucaR",
+"name": "9 Kannapolis Place"
+},
+"9 Reindeer Lane": {
+"aptlyId": "ZhzKh2CcQKBL5gvar",
+"name": "9 Reindeer Lane"
+},
+"9 Springwood Drive": {
+"aptlyId": "sMdjKiFoqRXNgWvh7",
+"name": "Sawmill Creek"
+},
+"9 Uturn Ct": {
+"aptlyId": "87H77bQZLxwWDyJgs",
+"name": "9 Uturn Ct"
+},
+"90 Wheatfield Drive": {
+"aptlyId": "HT7WiTr7xJWMhih9z",
+"name": "90 Wheatfield Drive"
+},
+"91 Pickering Drive": {
+"aptlyId": "QGjzDP22rFNBopzyh",
+"name": "91 Pickering Drive"
+},
+"91 Westrobin Ln": {
+"aptlyId": "CzeCZCE2eT4Cncjad",
+"name": "91 Westrobin Ln"
+},
+"93 Pheasant Drive": {
+"aptlyId": "fsFitymSgoWKZzgNF",
+"name": "93 Pheasant Dr"
+}
+}
+}
