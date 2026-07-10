@@ -2,7 +2,7 @@
 name: Rentvine to Aptly sync
 on:
   schedule:
-    - cron: "*/30 0-1,12-23 * * *"
+    - cron: "*/10 11-23,0-2 * * *"
   workflow_dispatch:
 jobs:
   sync:
