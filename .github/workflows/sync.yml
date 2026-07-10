@@ -14,7 +14,7 @@ jobs:
         run: |
           H=$(TZ=America/New_York date +%-H)
           M=$(TZ=America/New_York date +%-M)
-          if { [ "$H" -ge 8 ] && [ "$H" -lt 20 ]; } || { [ "$H" -eq 20 ] && [ "$M" -lt 15 ]; } \
+          if { [ "$H" -ge 7 ] && [ "$H" -lt 21 ]; } || { [ "$H" -eq 21 ] && [ "$M" -lt 15 ]; } \
              || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "run=yes" >> "$GITHUB_OUTPUT"
           else
